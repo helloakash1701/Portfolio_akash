@@ -1,2 +1,2 @@
 # Portfolio_akash
-Portfolio amde up with HTML and CSS
+Portfolio made up with HTML and CSS
